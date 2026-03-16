@@ -5,3 +5,8 @@ def deli(a, b):
     if b == 0:
         return "Napaka: deljenje z 0"
     return a / b
+
+print("0 = izhod")
+
+    elif izbira == "0":
+        print("Program se zapira")
